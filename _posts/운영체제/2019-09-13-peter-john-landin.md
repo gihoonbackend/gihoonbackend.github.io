@@ -6,7 +6,7 @@ author: "Hux"
 published: false
 header-style: text
 tags:
-  - CS Idols
+  - 운영체제
 ---
 
 > - [wiki](https://en.wikipedia.org/wiki/Peter_Landin)
