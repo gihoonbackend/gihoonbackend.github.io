@@ -3,7 +3,11 @@ title: "컴퓨터 알고리즘 중간고사 과제"
 subtitle: "Fast Fourier Transform 알고리즘"
 layout: post
 author: "Gihoonsong"
-date: 2023-04-28 12:00:00
+date: 2023-01-05 01:00:04
+header-style: text
+hidden: true
+tags:
+  - 알고리즘
 ---
 **컴퓨터 알고리즘 중간고사 과제 (Fast Fourier Transform 알고리즘)**
 
