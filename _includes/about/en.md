@@ -1,5 +1,3 @@
-<small>
-
 ## 📌 Projects & Roles
 ### 1. Development and Demonstration of AI-Integrated Mobility Devices Based on On-Device AI Computing  
 - **Organization**: Ministry of Trade, Industry and Energy (MOTIE)  
@@ -16,7 +14,7 @@
 - **Organization**: Ministry of Trade, Industry and Energy (MOTIE)  
 - **Period**: April 2022 – December 2024  
 - **Role**: Development of service robot platform  
-</style>
+
 ---
 
 ## 📌 Patent Application
@@ -33,4 +31,3 @@
 - **Period**: January 2025 – February 2025  
 - **Role**: Mentoring in LG Reskilling Program
 
-</style>
