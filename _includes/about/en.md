@@ -1,11 +1,10 @@
-<div style="font-size: small;">
 ## 📌 Projects & Roles
 ### 1. Development and Demonstration of AI-Integrated Mobility Devices Based on On-Device AI Computing  
 - **Organization**: Ministry of Trade, Industry and Energy (MOTIE)  
 - **Period**: June 2024 – February 2027  
 - **Role**: Development and optimization of on-device LLM  
 
-<div style="font-size: small;">
+
 ### 2. Development of Waste Collection and Transport Robots for Incheon Airport Terminal  
 - **Organization**: Korea Institute for Robot Industry Advancement (KIRIA)  
 - **Period**: April 2023 – November 2024  
