@@ -5,7 +5,7 @@
 - **Period**: June 2024 – February 2027  
 - **Role**: Development and optimization of on-device LLM  
 
-
+<div style="font-size: small;">
 ### 2. Development of Waste Collection and Transport Robots for Incheon Airport Terminal  
 - **Organization**: Korea Institute for Robot Industry Advancement (KIRIA)  
 - **Period**: April 2023 – November 2024  
@@ -31,5 +31,5 @@
 ### 2. Elis (LG Reskilling Program Mentor)  
 - **Period**: January 2025 – February 2025  
 - **Role**: Mentoring in LG Reskilling Program
-</div>
+
 
