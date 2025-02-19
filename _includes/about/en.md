@@ -4,6 +4,7 @@
 - **Organization**: Ministry of Trade, Industry and Energy (MOTIE)  
 - **Period**: June 2024 – February 2027  
 - **Role**: Development and optimization of on-device LLM  
+</small>
 
 ### 2. Development of Waste Collection and Transport Robots for Incheon Airport Terminal  
 - **Organization**: Korea Institute for Robot Industry Advancement (KIRIA)  
