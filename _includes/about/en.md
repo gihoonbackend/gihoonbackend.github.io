@@ -1,3 +1,8 @@
+<small>
+  body {
+    font-size: 12px;
+  }
+
 ## 📌 Projects & Roles
 ### 1. Development and Demonstration of AI-Integrated Mobility Devices Based on On-Device AI Computing  
 - **Organization**: Ministry of Trade, Industry and Energy (MOTIE)  
@@ -31,4 +36,4 @@
 - **Period**: January 2025 – February 2025  
 - **Role**: Mentoring in LG Reskilling Program
 
-
+</style>
