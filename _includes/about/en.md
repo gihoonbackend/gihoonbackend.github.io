@@ -22,7 +22,7 @@
 
 ---
 
-### 📌 Employment History
+### 📌 Career
 **Ibis (Intern)**
 - **Period**: December 2024 – January 2025  
 - **Role**: Development of control system for autonomous mobility  
