@@ -13,6 +13,15 @@
 - **기관**: 산업통상자원부  
 - **기간**: 2022.04 ~ 2024.12  
 - **역할**: 서비스 로봇 플랫폼 개발  
+---
+### 📌 출판 논문 
+- G. Song, J. Lim, C. Jeong and C. M. Kang, "Enhancing Inference Performance of a Personalized Driver Assistance System through LLM Fine-Tuning and Quantization," 2025 International Conference on Electronics, Information, and Communication (ICEIC), Osaka, Japan, 2025, pp. 1-4, doi: 10.1109/ICEIC64972.2025.10879617. keywords: {Quantization (signal);Scalability;Process control;Real-time systems;Hardware;Sensor systems;Sensors;Safety;Autonomous vehicles;Vehicles;LLM;QLoRA;Personalized Driving Assistance;ROS;Quantization},
+
+- 송기훈, 임지훈, 정철민, 강창묵. (2024-11-20). LLM 파인튜닝 및 양자화를 통한 개인 맞춤형 운전자 지원 시스템의 추론 성능 개선. 한국자동차공학회 추계학술대회 및 전시회, 제주.
+
+
+
+
 
 ---
 
