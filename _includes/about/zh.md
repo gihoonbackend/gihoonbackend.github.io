@@ -1,3 +1,11 @@
+Gihoon Song(송기훈), 
+2024.02 인천대학교 정보통신공학과(전공), 미래자동차학과(부전공) 졸업
+      ~ 한양대학교 전기공학과 석사과정 재학중 
+
+Email: sgh7344@hanyang.ac.kr, sgh7344@naver.com
+
+---
+
 ### 📌 참여 과제 및 역할
 **온디바이스 AI 컴퓨팅 기반 AI 융합형 모빌리티 디바이스 기술 개발 및 실증**  
 - **기관**: 산업통상자원부  
@@ -12,16 +20,14 @@
 **다목적 개인이동형 서비스 로봇 플랫폼 기술개발 및 실증**  
 - **기관**: 산업통상자원부  
 - **기간**: 2022.04 ~ 2024.12  
-- **역할**: 서비스 로봇 플랫폼 개발  
+- **역할**: 서비스 로봇 플랫폼 개발
+
 ---
+
 ### 📌 출판 논문 
 - G. Song, J. Lim, C. Jeong and C. M. Kang, "Enhancing Inference Performance of a Personalized Driver Assistance System through LLM Fine-Tuning and Quantization," 2025 International Conference on Electronics, Information, and Communication (ICEIC), Osaka, Japan, 2025, pp. 1-4, doi: 10.1109/ICEIC64972.2025.10879617. keywords: {Quantization (signal);Scalability;Process control;Real-time systems;Hardware;Sensor systems;Sensors;Safety;Autonomous vehicles;Vehicles;LLM;QLoRA;Personalized Driving Assistance;ROS;Quantization},
 
 - 송기훈, 임지훈, 정철민, 강창묵. (2024-11-20). LLM 파인튜닝 및 양자화를 통한 개인 맞춤형 운전자 지원 시스템의 추론 성능 개선. 한국자동차공학회 추계학술대회 및 전시회, 제주.
-
-
-
-
 
 ---
 
@@ -39,4 +45,3 @@
 - **기간**: 2025.01 ~ 2025.02  
 - **역할**: LG전자 임직원 대상 AI 리스킬링 프로그램 멘토 및 조교
 
----
