@@ -58,3 +58,5 @@ Gihoon Song(송기훈)
 
 **한양대학교&현대제로원 창업 경진대회 "최우수상 수상"**
 
+**6th HUBS YOUNG LION COMPETITION "우수상 수상"**
+
