@@ -1,6 +1,7 @@
 Gihoon Song(송기훈)
 - Email: sgh7344@hanyang.ac.kr, sgh7344@naver.com
 - 한양대학교 "지능형시스템제어연구실(UNICON)"
+  
 ---
 
 ### 📌학력
