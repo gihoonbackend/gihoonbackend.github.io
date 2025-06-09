@@ -1,4 +1,3 @@
----
 
 Gihoon Song(송기훈)
 - Email: sgh7344@hanyang.ac.kr, sgh7344@naver.com
