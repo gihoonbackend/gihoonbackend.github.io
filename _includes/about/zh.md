@@ -38,9 +38,16 @@
 ---
 
 ### 📌 출판 논문 
-- G. Song, J. Lim, C. Jeong and C. M. Kang, "Enhancing Inference Performance of a Personalized Driver Assistance System through LLM Fine-Tuning and Quantization," 2025 International Conference on Electronics, Information, and Communication (ICEIC), Osaka, Japan, 2025, pp. 1-4, doi: 10.1109/ICEIC64972.2025.10879617. keywords: {Quantization (signal);Scalability;Process control;Real-time systems;Hardware;Sensor systems;Sensors;Safety;Autonomous vehicles;Vehicles;LLM;QLoRA;Personalized Driving Assistance;ROS;Quantization},
 
+- 송기훈, 김민찬, 임지훈, 전수연, 강창묵. (2023-07-12). 자율주행 모빌리티의 관제 시스템. 한국생산제조학회 학술발표대회 논문집, 강원.
+  
 - 송기훈, 임지훈, 정철민, 강창묵. (2024-11-20). LLM 파인튜닝 및 양자화를 통한 개인 맞춤형 운전자 지원 시스템의 추론 성능 개선. 한국자동차공학회 추계학술대회 및 전시회, 제주.
+
+- G. Song, J. Lim, C. Jeong and C. M. Kang, "Enhancing Inference Performance of a Personalized Driver Assistance System through LLM Fine-Tuning and Quantization," 2025 International Conference on Electronics, Information, and Communication (ICEIC), Osaka, Japan, 2025
+
+- 정철민, 안양진, 송현욱, 김태헌, 송기훈, 이화수, 원인식, 정주익, 강창묵. (2025). 자율 이동 및 협력형 폐기물 이송 로봇. 제어로봇시스템학회 논문지
+
+- 송기훈, 송현욱, 정철민, 원인식, 정주익, 강창묵. (2025-05-21). LLM 기반 동적 PID 튜닝을 활용한 LiDAR 기반 모빌리티 도킹 시스템. 한국자동차공학회 춘계학술대회, 제주.
 
 ---
 
