@@ -32,7 +32,12 @@
 **​초개인화 퍼스널 모빌리티 서비스 디자인 개발**  
 - **기관**: 산업통상자원부  
 - **기간**: 2025.04 ~ 2027.12  
-- **역할**: Around View Monitor(AVM)기반 인지 시스템 개발
+- **역할**: Around View Monitor(AVM)기반 인지 시스템
+
+**​환자 이승 및 이동 보조 자율행동체 구현을 위한 지능 기술 개발 및 실증**  
+- **기관**: 과학기술정보통신부  
+- **기간**: 2025.07 ~ 2027.12  
+- **역할**: LLM 인터페이스 개발 및 과제 PM(2026~) 
 
 
 ---
@@ -49,6 +54,12 @@
 
 - 송기훈, 송현욱, 정철민, 원인식, 정주익, 강창묵. (2025-05-21). LLM 기반 동적 PID 튜닝을 활용한 LiDAR 기반 모빌리티 도킹 시스템. 한국자동차공학회 춘계학술대회, 제주.
 
+- "LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems", submitted, International Journal of Control, Automation and Systems(IJCAS) **SCIE**. 2025
+
+- "LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems", submitted, nternational Conference on Control, Automation, and Systems (ICCAS). 2025
+
+
+
 ---
 
 ### 📌 보유 특허
@@ -57,17 +68,23 @@
 ---
 
 ### 📌 경력
-- **아이비스**
+**아이비스**
 - **기간**: 2024.01 ~ 2024.02
 - **역할**: 자율주행 모빌리티의 관제 시스템 구축  
 
-- **엘리스 (2024 LG전자 AI 리스킬링 프로그램 멘토)**
+**엘리스**
+- **2024 LG전자 AI 리스킬링 프로그램 멘토**
 - **기간**: 2025.01 ~ 2025.02  
 - **역할**: LG전자 임직원 대상 AI 리스킬링 프로그램 멘토 및 조교
 
 - **현대자동차 빅데이터 부트캠프 프로그램 멘토**
 - **기간**: 2025.04 ~ 2025.07  
 - **역할**: 현대자동차 임직원 대상 빅데이터 부트캠프 멘토 및 조교
+
+  **팀 스파르타**
+- **2025 포스코 AI 교육 프로그램 멘토**
+- **기간**: 2025.01 ~ 2025.02  
+- **역할**: 포스코 임직원 대상 AI 프로그램 테크니컬 코칭
 
 ### 📌 수상이력
 - **대학 연합 스마트 모빌리티 온라인 경진대회 “동상” 수상**
