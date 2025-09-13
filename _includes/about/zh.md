@@ -54,9 +54,9 @@
 
 - 송기훈, 송현욱, 정철민, 원인식, 정주익, 강창묵. (2025-05-21). LLM 기반 동적 PID 튜닝을 활용한 LiDAR 기반 모빌리티 도킹 시스템. 한국자동차공학회 춘계학술대회, 제주.
 
-- "LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems", submitted, International Journal of Control, Automation and Systems(IJCAS) **SCIE**. 2025.
+- "LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems", 게재 승인, International Journal of Control, Automation and Systems(IJCAS) **SCIE**. 2025.
 
-- "LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems", submitted, nternational Conference on Control, Automation, and Systems (ICCAS). 2025.
+- "LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems", 게재 승인, International Conference on Control, Automation, and Systems (ICCAS). 2025.
 
 
 
