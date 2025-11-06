@@ -1,6 +1,6 @@
 **Gihoon Song**  
 - Email: sgh7344@hanyang.ac.kr, sgh7344@naver.com  
-- Hanyang University: Intelligent Systems Control Laboratory (UNICON)
+- Hanyang University: Unmanned & Intelligent systems Control Laboratory (**UNICON**)
 
 ---
 
