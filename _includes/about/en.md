@@ -53,9 +53,9 @@
 
 - G. Song, H. Song, C. Jeong, I. Won, J. Jung, and C. M. Kang. (2025-05-21). *LiDAR-Based Mobility Docking System Using LLM-Based Dynamic PID Tuning.* Korean Society of Automotive Engineers Spring Conference, Jeju, Korea.  
 
-- Song, G., Jeong, C., & Kang, C. M. (2025). *Adaptive Control for Autonomous Mobility via LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters.* *International Journal of Control, Automation and Systems,* 23, 3406–3414. https://doi.org/10.1007/s12555-025-0541-4 (**SCIE**).  
+- G. Song, C. Jeong and C. M. Kang. (2025). *Adaptive Control for Autonomous Mobility via LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters.* *International Journal of Control, Automation and Systems,* 23, 3406–3414. https://doi.org/10.1007/s12555-025-0541-4 (**SCIE**).  
 
-- *LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems.* *International Conference on Control, Automation, and Systems (ICCAS 2025).*  
+- G. Song, C. Jeong and C. M. Kang. (2025). *LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems.* *International Conference on Control, Automation, and Systems (ICCAS 2025).*  
 
 - G. Song, T. Kim, G. Kim, C. Jeong, and C. M. Kang. (2025-10). *LLM-Based Fusion Driver Assistance System Integrating Voice and Environmental Recognition.* *CICS’25 Information and Control Conference,* Sokcho, Korea.  
 
