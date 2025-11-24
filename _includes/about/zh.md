@@ -63,7 +63,8 @@
 
 - 송기훈, 김건태, 김태웅, 정철민, 강창묵 (2025-11) . 모듈형 LLM 제어 구조를 활용한 자연어 기반 ACC 시스템. 한국자동차공학회 추계학술대회 및 전시회, 부산.
 
-
+- G. Song, G. Kim, C. Jeong, and C. M. Kang. (2026). *LLM-Driven Adaptive Cruise Control:
+ Human-Centric Vehicle Control.* *2026 IEEE Intelligent Vehicles Symposium (IV). Detroit, MI, United States. **submitted**
 
 
 
