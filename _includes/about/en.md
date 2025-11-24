@@ -59,7 +59,10 @@
 
 - G. Song, T. Kim, G. Kim, C. Jeong, and C. M. Kang. (2025-10). *LLM-Based Fusion Driver Assistance System Integrating Voice and Environmental Recognition.* *CICS’25 Information and Control Conference,* Sokcho, Korea.  
 
-- G. Song, G. Kim, T. Kim, C. Jeong, and C. M. Kang. (2025-11). *Natural Language-Based ACC System Using Modular LLM Control Architecture.* *KSAE Fall Conference & Exhibition,* Busan, Korea.  
+- G. Song, G. Kim, T. Kim, C. Jeong, and C. M. Kang. (2025-11). *Natural Language-Based ACC System Using Modular LLM Control Architecture.* *KSAE Fall Conference & Exhibition,* Busan, Korea.
+
+- G. Song, G. Kim, C. Jeong, and C. M. Kang. (2026). *LLM-Driven Adaptive Cruise Control:
+ Human-Centric Vehicle Control.* *2026 IEEE Intelligent Vehicles Symposium (IV). Detroit, MI, United States. **submitted**
 
 ---
 
