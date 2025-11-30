@@ -7,7 +7,8 @@
 ### 📌 Education
 
 - 2020 – 2024 B.S. in Information and Communication Engineering, Incheon National University (Minor in Future Mobility)  
-- 2024 – 2026 M.S. in Electrical Engineering, Hanyang University  
+- 2024 – 2026 M.S. in Electrical Engineering, Hanyang University
+- 2026 – Present Ph.D. Program in Artificial Intelligence, Hanyang University
 - 2026.01 – 2026.08 Scheduled Exchange Program at Florida State University  
 
 ---
