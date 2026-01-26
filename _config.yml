@@ -1,11 +1,11 @@
 # Site settings
 title: GIhoon's Blog
-SEOTitle: Backend | Developer
+SEOTitle: AI | Research
 header-img: img/home-bg.png
 email: sgh7344@naver.com
-description: "[송기훈] 인천대학교 4학년"
+description: "[송기훈] 한양대학교 인공지능학과 박사과정"
 keyword: ""
-url: "https://gihoonbackend.github.io/" # your host, for absolute URL
+url: "https://gihoonAIResearch.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -68,7 +68,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "인천대학교 4학년"
+sidebar-about-description: "한양대학교 인공지능학과 박사과정"
 sidebar-avatar: /img/gihoon.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
