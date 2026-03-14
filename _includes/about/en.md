@@ -1,7 +1,7 @@
 **Gihoon Song**
 - Email: sgh7344@hanyang.ac.kr, sgh7344@naver.com
 - Hanyang University: Intelligent Systems Control Laboratory (UNICON)
-- Ph.D. Student in Artificial Intelligence.
+- Ph.D. Student in Artificial Intelligence
 
 ---
 
