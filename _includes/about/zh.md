@@ -76,7 +76,9 @@
 
 - 송기훈, 김건태, 김태웅, 정철민, 강창묵 (2025-11) . 모듈형 LLM 제어 구조를 활용한 자연어 기반 ACC 시스템. 한국자동차공학회 추계학술대회 및 전시회, 부산.
 
-- Song, G., Park, H., Kim, G., Kim, M. & Kang, C.M. “Risk-Conditioned Shared Orchestration: A Hybrid Control Framework Toward Level-3 Autonomous Driving,” submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS) **Submitted**
+- Song, G., Park, H., Kim, G., Kim, M. & Kang, C.M. “Risk-Conditioned Shared Orchestration: A Hybrid Control Framework Toward Level-3 Autonomous Driving,” submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS) **Under Review**.
+
+- Song, G., Gui, Y. & Kang, C.M. “Digital-Twin-Informed LLM Supervisory Coordination of MPC Experts for Multi-Energy Systems,” submitted to Modern Power Systems and Clean Energy (MPCE) **Under Review**.
 
 
 ---
