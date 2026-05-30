@@ -58,17 +58,14 @@
 
 ### 📌 출판 논문 
 
+### **Conference**
 - 송기훈, 김민찬, 임지훈, 전수연, 강창묵. (2023-07-12). 자율주행 모빌리티의 관제 시스템. 한국생산제조학회 학술발표대회 논문집, 강원.
   
 - 송기훈, 임지훈, 정철민, 강창묵. (2024-11-20). LLM 파인튜닝 및 양자화를 통한 개인 맞춤형 운전자 지원 시스템의 추론 성능 개선. 한국자동차공학회 추계학술대회 및 전시회, 제주.
 
 - G. Song, J. Lim, C. Jeong and C. M. Kang, "Enhancing Inference Performance of a Personalized Driver Assistance System through LLM Fine-Tuning and Quantization," 2025 International Conference on Electronics, Information, and Communication (ICEIC), Osaka, Japan, 2025.
 
-- 정철민, 안양진, 송현욱, 김태헌, 송기훈, 이화수, 원인식, 정주익, 강창묵. (2025). 자율 이동 및 협력형 폐기물 이송 로봇. 제어로봇시스템학회 논문지
-
 - 송기훈, 송현욱, 정철민, 원인식, 정주익, 강창묵. (2025-05-21). LLM 기반 동적 PID 튜닝을 활용한 LiDAR 기반 모빌리티 도킹 시스템. 한국자동차공학회 춘계학술대회, 제주.
-
-- Song, G., Jeong, C. & Kang, C.M. Adaptive Control for Autonomous Mobility via LoGenE: Reward-guided Genetic Evolution of LoRA Adapters. Int. J. Control Autom. Syst. 23, 3406–3414 (2025). https://doi.org/10.1007/s12555-025-0541-4, **SCIE**. 2025.
 
 - "LoGenE: Reward-Guided Genetic Evolution of LoRA Adapters for Dynamic PID Control in LLM-Based Robot Docking Systems", International Conference on Control, Automation, and Systems (ICCAS). 2025.
 
@@ -76,10 +73,18 @@
 
 - 송기훈, 김건태, 김태웅, 정철민, 강창묵 (2025-11) . 모듈형 LLM 제어 구조를 활용한 자연어 기반 ACC 시스템. 한국자동차공학회 추계학술대회 및 전시회, 부산.
 
+
+### **Journal**
+
+- 정철민, 안양진, 송현욱, 김태헌, 송기훈, 이화수, 원인식, 정주익, 강창묵. (2025). 자율 이동 및 협력형 폐기물 이송 로봇. 제어로봇시스템학회 논문지
+
+- Song, G., Jeong, C. & Kang, C.M. Adaptive Control for Autonomous Mobility via LoGenE: Reward-guided Genetic Evolution of LoRA Adapters. Int. J. Control Autom. Syst. 23, 3406–3414 (2025). https://doi.org/10.1007/s12555-025-0541-4, **SCIE**. 2025.
+
 - Song, G., Park, H., Kim, G., Kim, M. & Kang, C.M. “Risk-Conditioned Shared Orchestration: A Hybrid Control Framework Toward Level-3 Autonomous Driving,” submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS) **Under Review**.
 
 - Song, G., Gui, Y. & Kang, C.M. “Digital-Twin-Informed LLM Supervisory Coordination of MPC Experts for Multi-Energy Systems,” submitted to Modern Power Systems and Clean Energy (MPCE) **Under Review**.
 
+- An, Y.-J., Song, G. & Kang, C.M. “From Prompts to Feedback: A Control-Theoretic View of Large Language Models,” submitted to IEEE Control Systems Magazine **Under Review**.
 
 ---
 
@@ -91,6 +96,7 @@
 ---
 
 ### 📌 경력
+
 
 ### **인천대학교**
 **2023 소프트웨어 경진대회 멘토**
