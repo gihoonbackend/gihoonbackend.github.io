@@ -73,7 +73,7 @@
 
 - 송기훈, 김건태, 김태웅, 정철민, 강창묵 (2025-11) . 모듈형 LLM 제어 구조를 활용한 자연어 기반 ACC 시스템. 한국자동차공학회 추계학술대회 및 전시회, 부산.
 
-- Song, G., Guan, Y.* & Kang, C.M.* “Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems under Prompt Perturbations,” submitted to International Conference on Control, Automation and Systems Under Review.
+- Song, G., Guan, Y.* & Kang, C.M.* “Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems under Prompt Perturbations,” submitted to International Conference on Control, Automation and Systems **Under Review.**
 
 
 ### **Journal**
@@ -88,7 +88,7 @@
 
 - An, Y.-J., Song, G. & Kang, C.M. “From Prompts to Feedback: A Control-Theoretic View of Large Language Models,” submitted to IEEE Control Systems Magazine **Under Review**.
 
-- Song, G., Guan, Y.* & Kang, C.M.* “Beyond Prompt Alignment: Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems,” submitted to International Journal of Control, Automation and Systems Under Review.
+- Song, G., Guan, Y.* & Kang, C.M.* “Beyond Prompt Alignment: Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems,” submitted to International Journal of Control, Automation and Systems **Under Review.**
 
 ---
 
