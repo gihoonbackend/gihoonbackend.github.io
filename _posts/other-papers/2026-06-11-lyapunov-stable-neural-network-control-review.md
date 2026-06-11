@@ -3,7 +3,7 @@ title: "Lyapunov-Stable Neural-Network Control 리뷰"
 subtitle: "MIP 기반 검증을 활용한 안정성 보장 신경망 제어기 합성"
 layout: post
 author: "Gihoon"
-date: 2021-07-12 01:00:00
+date: 2026-06-12 00:00:00
 header-style: text
 categories:
   - paper-reviews
