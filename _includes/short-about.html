@@ -1,19 +1,45 @@
-<section class="visible-md visible-lg">
+<section class="visible-md visible-lg about-card-section">
   <hr>
-  <h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
-  <div class="short-about">
+
+  <h5>
+    <a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a>
+  </h5>
+
+  <div class="short-about about-card">
+
     {% if site.sidebar-avatar %}
-    <img src="{{site.sidebar-avatar}}" />
+    <a href="{{'/about/' | prepend: site.baseurl }}" class="about-avatar-link">
+      <img class="about-avatar" src="{{site.sidebar-avatar}}" alt="Gihoon Song profile image" />
+    </a>
     {% endif %}
+
     {% if site.sidebar-about-description %}
-    <p>한양대학교</p>
-    <p>UNICON LAB</p>
-    <p>인공지능학과 박사과정</p>
-    <p>송기훈</p>
-    <p>인공지능제어, LLM</p>
-    <p>Autonomous Vehicle, ROBOT</p>
+    <div class="about-info">
+      <div class="about-name">Gihoon Song</div>
+      <div class="about-name-kr">송기훈</div>
+
+      <div class="about-role">
+        Ph.D. Student · Artificial Intelligence
+      </div>
+
+      <div class="about-affiliation">
+        Hanyang University<br>
+        UNICON Lab
+      </div>
+
+      <div class="about-keywords">
+        <span>AI Control</span>
+        <span>LLM</span>
+        <span>Robotics</span>
+        <span>Autonomous Driving</span>
+      </div>
+    </div>
     {% endif %}
+
     <!-- SNS Link -->
-    {% include sns-links.html %}
+    <div class="about-sns">
+      {% include sns-links.html %}
+    </div>
+
   </div>
 </section>
