@@ -1,44 +1,48 @@
 <section class="visible-md visible-lg about-card-section">
   <hr>
 
-  <h5>
+  <h5 class="about-card-title">
     <a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a>
   </h5>
 
-  <div class="short-about about-card">
+  <div class="short-about about-card-clean">
 
     {% if site.sidebar-avatar %}
     <a href="{{'/about/' | prepend: site.baseurl }}" class="about-avatar-link">
-      <img class="about-avatar" src="{{site.sidebar-avatar}}" alt="Gihoon Song profile image" />
+      <img class="about-avatar-clean" src="{{ site.sidebar-avatar }}" alt="Gihoon Song profile image" />
     </a>
     {% endif %}
 
-    {% if site.sidebar-about-description %}
-    <div class="about-info">
-      <div class="about-name">Gihoon Song</div>
-      <div class="about-name-kr">송기훈</div>
+    <div class="about-profile-text">
+      <div class="about-profile-name">Gihoon Song</div>
+      <div class="about-profile-kr">송기훈</div>
 
-      <div class="about-role">
-        Ph.D. Student · Artificial Intelligence
+      <div class="about-profile-role">
+        Ph.D. Student<br>
+        Dept. of Artificial Intelligence
       </div>
 
-      <div class="about-affiliation">
-        Hanyang University<br>
-        UNICON Lab
+      <div class="about-profile-affiliation">
+        UNICON Lab<br>
+        Hanyang University
       </div>
 
-      <div class="about-keywords">
+      <div class="about-profile-tags">
         <span>AI Control</span>
         <span>LLM</span>
         <span>Robotics</span>
         <span>Autonomous Driving</span>
       </div>
     </div>
-    {% endif %}
 
-    <!-- SNS Link -->
-    <div class="about-sns">
-      {% include sns-links.html %}
+    <div class="about-profile-links">
+      <a href="https://github.com/gihoonbackend" target="_blank" rel="noopener">
+        GitHub
+      </a>
+      <span>·</span>
+      <a href="https://gihoonbackend.github.io" target="_blank" rel="noopener">
+        Blog
+      </a>
     </div>
 
   </div>
