@@ -1773,3 +1773,133 @@ img::-moz-selection {
     margin-top: 45px;
   }
 }
+
+/* ================================
+   Custom Wide Layout
+   Gihoon's Blog
+   ================================ */
+
+/* 전체 페이지를 양쪽으로 더 넓게 사용 */
+@media (min-width: 1200px) {
+  .page-wide-container {
+    width: 1320px;
+    max-width: 92vw;
+  }
+}
+
+@media (min-width: 1600px) {
+  .page-wide-container {
+    width: 1480px;
+    max-width: 92vw;
+  }
+}
+
+/* Bootstrap container 기본 폭보다 더 꽉 차게 */
+@media (min-width: 1800px) {
+  .page-wide-container {
+    width: 1560px;
+    max-width: 94vw;
+  }
+}
+
+/* 기존 테마의 오른쪽 padding 5% 제거 */
+.post-container,
+.postlist-container,
+.sidebar-container,
+.page-main-container,
+.page-sidebar-container {
+  padding-right: 15px;
+}
+
+/* 본문 영역을 더 시원하게 */
+.page-main-container {
+  font-size: 17px;
+  line-height: 1.85;
+  padding-left: 15px;
+  padding-right: 45px;
+}
+
+/* 사이드바 위치와 폭감 정리 */
+.page-sidebar-container {
+  padding-left: 35px;
+  padding-right: 15px;
+}
+
+/* 글 목록 제목 가독성 */
+.page-main-container .post-preview > a > h2,
+.page-main-container h2 {
+  font-size: 31px;
+  line-height: 1.35;
+}
+
+/* 글 목록 부제목 */
+.page-main-container .post-preview > a > h3,
+.page-main-container h3 {
+  font-size: 19px;
+  line-height: 1.55;
+}
+
+/* 글 목록 사이 간격 */
+.page-main-container .post-preview {
+  padding-top: 10px;
+  padding-bottom: 18px;
+}
+
+/* 구분선 여백 */
+.page-main-container hr {
+  margin: 34px 0;
+}
+
+/* 사이드바 ABOUT ME와 FEATURED TAGS 간격 */
+.page-sidebar-container section,
+.page-sidebar-container .short-about {
+  margin-bottom: 34px;
+}
+
+/* ABOUT ME 이미지 조금 더 크게 */
+.page-sidebar-container .short-about img {
+  width: 88%;
+  max-width: 220px;
+  border-radius: 8px;
+  margin-bottom: 18px;
+}
+
+/* 사이드바 제목 */
+.page-sidebar-container h5 {
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+/* 태그 버튼 정리 */
+.page-sidebar-container .tags a {
+  margin: 0 4px 8px 0;
+  padding: 4px 10px;
+  font-size: 12px;
+  border-radius: 999px;
+}
+
+/* 모바일에서는 기존처럼 세로 배치 */
+@media (max-width: 991px) {
+  .page-wide-container {
+    width: auto;
+    max-width: 100%;
+  }
+
+  .page-main-container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .page-sidebar-container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 45px;
+  }
+
+  .page-main-container .post-preview > a > h2,
+  .page-main-container h2 {
+    font-size: 25px;
+  }
+}
