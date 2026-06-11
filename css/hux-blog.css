@@ -1694,3 +1694,82 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+
+/* ================================
+   Custom Wide Page Layout
+   Gihoon's Blog
+   ================================ */
+
+/* 전체 컨테이너 폭 확장 */
+@media (min-width: 1200px) {
+  .page-wide-container {
+    width: 1280px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .page-wide-container {
+    width: 1360px;
+  }
+}
+
+/* 본문 영역 */
+.page-main-container {
+  font-size: 16px;
+  line-height: 1.85;
+}
+
+/* 본문 오른쪽 여백 과도하게 줄어드는 것 방지 */
+.postlist-container,
+.page-main-container {
+  padding-right: 30px;
+}
+
+/* 사이드바 정리 */
+.page-sidebar-container {
+  padding-left: 35px;
+}
+
+/* 구분선과 섹션 간격 */
+.page-main-container hr {
+  margin: 35px 0;
+}
+
+/* About 페이지 제목/소제목 간격 개선 */
+.page-main-container h2 {
+  margin-top: 42px;
+  margin-bottom: 22px;
+  font-weight: 700;
+}
+
+.page-main-container h3,
+.page-main-container h4 {
+  margin-top: 28px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+/* 리스트 가독성 개선 */
+.page-main-container ul,
+.page-main-container ol {
+  margin-top: 12px;
+  margin-bottom: 24px;
+  padding-left: 28px;
+}
+
+.page-main-container li {
+  margin-bottom: 7px;
+}
+
+/* 모바일에서는 기존처럼 한 줄 배치 */
+@media (max-width: 991px) {
+  .postlist-container,
+  .page-main-container {
+    padding-right: 15px;
+  }
+
+  .page-sidebar-container {
+    padding-left: 15px;
+    margin-top: 45px;
+  }
+}
