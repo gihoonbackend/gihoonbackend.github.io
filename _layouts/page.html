@@ -7,46 +7,53 @@ layout: default
 
 <!-- Main Content -->
 <div class="container page-wide-container">
-  <div class="row">
+  <div class="row page-wide-row">
 
     {% if site.sidebar == false %}
 
     <!-- NO SIDEBAR -->
-    <!-- Main Content Container -->
+    <!-- PostList Container -->
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12 postlist-container page-main-container">
       {{ content }}
     </div>
 
-    <!-- Bottom Info Container -->
+    <!-- Bottom Container -->
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12 sidebar-container page-bottom-container">
+
+      <!-- Short About -->
+      {% include short-about.html %}
+
       <!-- Featured Tags -->
       {% include featured-tags.html %}
 
       <!-- Friends Blog -->
       {% include friends.html %}
+
     </div>
 
     {% else %}
 
     <!-- USE SIDEBAR -->
-    <!-- Main Content Container -->
+    <!-- PostList Container -->
     <div class="col-lg-9 col-lg-offset-0 col-md-9 col-md-offset-0 col-sm-12 col-xs-12 postlist-container page-main-container">
       {{ content }}
     </div>
 
     <!-- Sidebar Container -->
     <div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12 col-xs-12 sidebar-container page-sidebar-container">
-      <!-- Featured Tags -->
-      {% include featured-tags.html %}
 
       <!-- Short About -->
       {% include short-about.html %}
+
+      <!-- Featured Tags -->
+      {% include featured-tags.html %}
 
       <!-- Friends Blog -->
       {% include friends.html %}
 
       <!-- Ads -->
       {% include ads.html %}
+
     </div>
 
     {% endif %}
