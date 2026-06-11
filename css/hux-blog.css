@@ -1903,3 +1903,95 @@ img::-moz-selection {
     font-size: 25px;
   }
 }
+/* ================================
+   Clean About Me Sidebar Card
+   ================================ */
+
+.about-card-section {
+  margin-bottom: 38px;
+}
+
+.about-card-section h5 {
+  margin-bottom: 18px;
+}
+
+.about-card {
+  text-align: left;
+}
+
+.about-avatar-link {
+  display: block;
+  width: 100%;
+}
+
+.page-sidebar-container .short-about img.about-avatar,
+.sidebar-container .short-about img.about-avatar {
+  width: 100%;
+  max-width: 230px;
+  border-radius: 12px;
+  display: block;
+  margin: 0 0 18px 0;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+}
+
+.about-info {
+  max-width: 240px;
+}
+
+.about-name {
+  font-size: 18px;
+  font-weight: 700;
+  color: #222;
+  line-height: 1.25;
+  margin-bottom: 2px;
+}
+
+.about-name-kr {
+  font-size: 13px;
+  font-weight: 500;
+  color: #777;
+  margin-bottom: 12px;
+}
+
+.about-role {
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.about-affiliation {
+  font-size: 12.5px;
+  color: #777;
+  line-height: 1.6;
+  margin-bottom: 14px;
+}
+
+.about-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.about-keywords span {
+  display: inline-block;
+  padding: 4px 9px;
+  border: 1px solid #e5e5e5;
+  border-radius: 999px;
+  font-size: 11px;
+  color: #666;
+  background: #fafafa;
+  line-height: 1.2;
+}
+
+.about-sns {
+  margin-top: 16px;
+}
+
+.about-sns ul,
+.about-sns .list-inline {
+  margin-left: 0;
+  padding-left: 0;
+}
