@@ -82,6 +82,12 @@
 
 - Song, G., Guan, Y.* & Kang, C.M.* “Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems under Prompt Perturbations,” submitted to International Conference on Control, Automation and Systems **Under Review.**
 
+- 이준혁, 송기훈, 송현욱, 안양진, 박형준. (2026-04). LoRA 파인튜닝과 양자화를 활용한 경량 Vision–Language Model의 객체 선택 성능 평가. 2026 지능정보 및 제어 학술대회.
+
+- Xin Li, Gihoon Song. (2026-07). Methodology and Applications of a Hybrid Classical–Quantum Transfer Learning Framework for Remote Sensing Image Recognition. 대한전기학회 하계학술대회.
+
+- Hyelim Jeon, HyeongJun Park, GiHoon Song. (2026-07). A Feasibility Study on Spherical Attention-Based Camera–LiDAR Sensor Fusion Model for Autonomous Driving. 대한전기학회 하계학술대회.
+
 
 ### **Journal**
 
