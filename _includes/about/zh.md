@@ -80,7 +80,7 @@
 
 - 송기훈, 김건태, 김태웅, 정철민, 강창묵 (2025-11) . 모듈형 LLM 제어 구조를 활용한 자연어 기반 ACC 시스템. 한국자동차공학회 추계학술대회 및 전시회, 부산.
 
-- Song, G., Guan, Y.* & Kang, C.M.* “Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems under Prompt Perturbations,” submitted to International Conference on Control, Automation and Systems **Under Review.**
+- Song, G., Guan, Y.* & Kang, C.M.* “Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems under Prompt Perturbations,” submitted to International Conference on Control, Automation and Systems **Accepted.**
 
 - 이준혁, 송기훈, 송현욱, 안양진, 박형준. (2026-04). LoRA 파인튜닝과 양자화를 활용한 경량 Vision–Language Model의 객체 선택 성능 평가. 2026 지능정보 및 제어 학술대회.
 
