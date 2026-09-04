@@ -99,7 +99,7 @@
 
 - Song, G., Gui, Y. & Kang, C.M. “Digital-Twin-Informed LLM Supervisory Coordination of MPC Experts for Multi-Energy Systems,” submitted to Modern Power Systems and Clean Energy (MPCE) **Under Review**.
 
-- Song, G., Guan, Y.* & Kang, C.M.* “Performance Auditing of LLM-Supervised MPC Blending for Multi-Energy Systems,” submitted to International Journal of Control, Automation and Systems **ACCESS**
+- Song, G., Guan, Y.* & Kang, C.M.* “Performance Auditing of LLM-Supervised MPC Blending for Multi-Energy Systems,” submitted to International Journal of Control, Automation and Systems **Accepted.**
 
 ---
 
