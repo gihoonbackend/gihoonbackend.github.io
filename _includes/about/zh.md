@@ -99,9 +99,7 @@
 
 - Song, G., Gui, Y. & Kang, C.M. “Digital-Twin-Informed LLM Supervisory Coordination of MPC Experts for Multi-Energy Systems,” submitted to Modern Power Systems and Clean Energy (MPCE) **Under Review**.
 
-- An, Y.-J., Song, G. & Kang, C.M. “From Prompts to Feedback: A Control-Theoretic View of Large Language Models,” submitted to IEEE Control Systems Magazine **Under Review**.
-
-- Song, G., Guan, Y.* & Kang, C.M.* “Beyond Prompt Alignment: Runtime-Safeguarded LLM Supervisory Control for Multi-Energy Systems,” submitted to International Journal of Control, Automation and Systems **Under Review.**
+- Song, G., Guan, Y.* & Kang, C.M.* “Performance Auditing of LLM-Supervised MPC Blending for Multi-Energy Systems,” submitted to International Journal of Control, Automation and Systems **ACCESS**
 
 ---
 
